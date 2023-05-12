@@ -1,0 +1,16 @@
+export const Colors = {
+  black: '#000',
+  white: '#FFFFFF',
+  offWhite: '#f3f2f7',
+  navColor: '#d6c368',
+  overlay: "#0003",
+  moreLightGrey: '#EED',
+  lightGrey: '#D9D9D9',
+  grey: '#6d7379',
+  grey2: "#8c8c8c",
+  opacity: 'rgba(0,0,0,0.5)',
+  primary: '#D1423A',
+  placeholder: "#A29EAE",
+  orange: '#FF8600',
+  green: '#086f13',
+};
